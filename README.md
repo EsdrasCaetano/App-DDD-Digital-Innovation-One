@@ -1,3 +1,3 @@
-# Projeto de uma App usando DDD
+# Projeto de App usando DDD
 
-Projeto desenvolvido pelo especialista Alexandre Daccas, no Decola Dev Avanade 2021 no módulo "Desenvolvendo sua aplicação com c# usando DDD", que mostra e aplica os conceitos do Domain-Driven Design (DDD).
+Projeto desenvolvido pelo especialista Alexandre Daccas, no Decola Dev Avanade 2021 no mÃ³dulo "Desenvolvendo sua aplicaÃ§Ã£o com c# usando DDD", que mostra e aplica os conceitos do Domain-Driven Design (DDD).
